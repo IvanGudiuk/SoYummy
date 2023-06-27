@@ -1,8 +1,8 @@
 {
-  "name": "SoYummy",
+  "name": "soyummy-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ivangudiuk.github.io/SoYummy/",
+  "homepage": "https://ivangudiuk.github.io/soyummy-project/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.16",
